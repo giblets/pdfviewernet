@@ -1,0 +1,1 @@
+VB.NET project that consists of a PDF Viewer control that can display any PDF file without having any Acrobat programs installed on the client. It can be configured to use GhostScript, muPDF or XPDF.
